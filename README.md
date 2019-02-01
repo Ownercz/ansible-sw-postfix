@@ -1,1 +1,1 @@
-# ansible-sw-postfix
+# Postfix email relay
